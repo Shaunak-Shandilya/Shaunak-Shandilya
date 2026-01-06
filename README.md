@@ -1,8 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello%20World!%20I'm%20Shaunak&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=ML%20Enthusiast%20%20•%20%20Qt%20Creator&descSize=20&descAlignY=55)](https://github.com/aaronedev)
 
-
-**Shaunak-Shandilya/Shaunak-Shandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2> 🚀 &nbsp;Languages</h2>
 <p align="left">        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>

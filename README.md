@@ -1,6 +1,4 @@
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
 
 **Shaunak-Shandilya/Shaunak-Shandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,3 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="45" height="45"/>
 </p>
 
+<h2> Get in touch with me </h2>
+<a href="https://www.linkedin.com/in/shaunak-shandilya-b934a9357">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
